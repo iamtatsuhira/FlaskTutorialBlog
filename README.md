@@ -5,6 +5,8 @@ Flask tutorial by Corey Schafer (https://www.youtube.com/user/schafer5)
 1. Getting started
 2. Templates
 3. Forms
-
+4. Database with Flask-ALChamy
+5. Package Structure
+6. User Authentication
 
 
