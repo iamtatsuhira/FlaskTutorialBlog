@@ -8,5 +8,5 @@ Flask tutorial by Corey Schafer (https://www.youtube.com/user/schafer5)
 4. Database with Flask-ALChamy
 5. Package Structure
 6. User Authentication
-
+7. User Account and Profile Picture
 
