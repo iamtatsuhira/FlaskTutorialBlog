@@ -13,3 +13,4 @@ Flask tutorial by Corey Schafer (https://www.youtube.com/user/schafer5)
 9. Pagination
 10. Email and Password Reset
 11. Blueprints and Configuration
+12. Custom Error Pages
