@@ -11,3 +11,4 @@ Flask tutorial by Corey Schafer (https://www.youtube.com/user/schafer5)
 7. User Account and Profile Picture
 8. Create, Update, and Delete Posts
 9. Pagination
+10. Email and Password Reset
